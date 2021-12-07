@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+    justify-content: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+/* #add { background: hotpink; padding: 30px}; */
+/* #output {background: peru ; padding: 30px}; */
+#end {background: indianred; padding: 30px};
